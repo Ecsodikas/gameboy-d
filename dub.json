@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Timo Netzer"
+	],
+	"copyright": "Copyright © 2025, Timo Netzer",
+	"description": "Gameboy emulation in D",
+	"license": "MIT",
+	"name": "gameboy-d"
+}
